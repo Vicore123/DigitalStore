@@ -23,6 +23,16 @@
     
 }
 
-footer{
-    background-image: var(--secondary-gradient);
+.button1{
+    background-color: var(--primary);
+    color: var(--light-gray-3);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 40px;
+
 }
+
+header{
+    background-color: var(--white);
+}
+
