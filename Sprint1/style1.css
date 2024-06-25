@@ -28,11 +28,42 @@
     color: var(--light-gray-3);
     border: none;
     border-radius: 5px;
-    padding: 5px 40px;
-
+    padding: 8px 35px;
+    font-weight: bold;
 }
 
-header{
+.header1{
     background-color: var(--white);
+
+    input[type=text] {
+        width: 559px;
+        height: 60px;
+        padding: 20px;
+        border: none;
+        border-radius: 8px;
+        background-color: var(--light-gray-3);
+    }
+    input[type="text"]:focus {
+            outline: none;
+        }
+    
+    a{
+        color: var(--dark-gray);
+    }
 }
 
+.a-focus{
+    color: var(--primary);
+    font-weight: bold;
+    margin-left: 105px;
+}
+
+.a1{
+    text-decoration: none;
+    color: var(--dark-gray-2);
+    margin-left: 35px;
+}
+
+main {
+    background-color: #1F1F1F;
+}
