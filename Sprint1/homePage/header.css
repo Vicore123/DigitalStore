@@ -23,6 +23,15 @@
     
 }
 
+.button1{
+    background-color: var(--primary);
+    color: var(--light-gray-3);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 35px;
+    font-weight: bold;
+}
+
 header {
     margin-top: 40px;
     margin-bottom: 30px;
@@ -46,15 +55,6 @@ header {
     a{
         color: var(--dark-gray);
     }
-}
-
-.button1{
-    background-color: var(--primary);
-    color: var(--light-gray-3);
-    border: none;
-    border-radius: 5px;
-    padding: 8px 35px;
-    font-weight: bold;
 }
 
 .a-focus{
