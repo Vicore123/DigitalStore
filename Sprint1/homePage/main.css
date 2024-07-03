@@ -18,7 +18,6 @@
 
     /* image */
     --primary-gradient: linear-gradient(to bottom, #C92071, #EDABCA);
-
     --secondary-gradient: linear-gradient(to bottom, #B5B6F2, #EFEFFF);
     
 }
@@ -63,4 +62,8 @@ main {
         margin-top: 70px;
         padding-left: 40px;
     }
+}
+
+.buttonCards {
+    padding-top: 166px;
 }
