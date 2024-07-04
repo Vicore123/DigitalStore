@@ -32,7 +32,7 @@
     font-weight: bold;
 }
 .button2{
-    background-color: var(--light-gray);
+    background-color: var(--light-gray-3);
     color: var(--primary);
     border: none;
     border-radius: 8px;

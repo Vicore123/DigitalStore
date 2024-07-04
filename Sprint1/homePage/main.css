@@ -64,6 +64,40 @@ main {
     }
 }
 
-.buttonCards {
-    padding-top: 166px;
+.card1 {
+    height: 245px;
+    width: 395px;
+    background-position: 157px;
+    background-repeat: no-repeat;
+    background-color: #D8E3F2;
+    background-image: url(images/star-wars-storm-trooper-supreme-shirts-supreme-t-shirt-snoopy-clothing-apparel-t-shirt-text-transparent-png-616696\ 1.png);
+
+    div {
+
+        width: 225px;
+        padding-left: 30px;
+        padding-top: 35px;
+
+        p {
+            display: flex;
+            width: 100px;
+            border-radius: 29px;
+            padding: 6px;
+            color: var(--dark-gray-2);
+            font-size: 14px;
+            font-weight: bold;
+            background-color: #E7FF86;
+            justify-content: center;
+        }
+
+        h3 {
+            font-weight: bold;
+            font-size: 32px;
+        }
+
+        button {
+            font-size: 18px;
+            
+        }
+    }
 }
