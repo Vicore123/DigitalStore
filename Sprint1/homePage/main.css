@@ -64,9 +64,13 @@ main {
     }
 }
 
+.cards {
+    padding-left: 100px;
+}
 .card1 {
     height: 245px;
     width: 395px;
+    border-radius: 8px;
     background-position: 157px;
     background-repeat: no-repeat;
     background-color: #D8E3F2;
